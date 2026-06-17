@@ -24,7 +24,6 @@ if (typeof document !== "undefined") {
       <section class="mx-auto w-full max-w-6xl p-6">
         <header class="mb-6 rounded-2xl bg-slate-900 p-6 text-white shadow-lg">
           <h1 class="text-3xl font-bold">Cinema Seat Manager</h1>
-          <p class="mt-2 text-slate-300">80 seats total (8 x 10), row 0 is closest to the screen.</p>
         </header>
 
         <section class="mb-5 rounded-2xl bg-white p-5 shadow-sm">
@@ -45,7 +44,7 @@ if (typeof document !== "undefined") {
 
         <section class="rounded-2xl bg-white p-5 shadow-sm">
           <div class="mx-auto mb-4 max-w-3xl rounded-full bg-slate-900 py-3 text-center text-sm font-bold tracking-widest text-white">
-            SCREEN (ROW 0)
+            SCREEN
           </div>
 
           <div class="mb-3 text-sm text-slate-600">
